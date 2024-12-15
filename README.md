@@ -1,10 +1,8 @@
-<html>
-<head>
 <style>
 h1 {text-align: center;}
 div {text-align: center;}
 </style>
-</head>
+
 <body>
   <h1>  BeeKind2Natu  </h1>
 </body>
