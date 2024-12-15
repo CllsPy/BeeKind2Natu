@@ -11,3 +11,7 @@ FastHTML is a new way to create modern interactive web apps. It scales down to a
 ## Usage
 ![fastHTML](https://github.com/user-attachments/assets/a60a5d9b-a05d-4e31-9324-af7f9c70891e)
 
+## License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
