@@ -1,8 +1,7 @@
 
 
 
-<center> BeeKind2Natu   </center> 
 
-<center>Item centralizado</center>
+<center>#Item centralizado</center>
 
 I build this project  for two main reasons: one, inspired by deeptalks from 
