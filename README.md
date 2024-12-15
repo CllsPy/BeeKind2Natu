@@ -1,10 +1,7 @@
-<style>
-h1 {text-align: center;}
-div {text-align: center;}
-</style>
 
-<body>
-  <h1>  BeeKind2Natu  </h1>
-</body>
+
+
+<center> BeeKind2Natu   </center> 
+
   
 I build this project  for two main reasons: one, inspired by deeptalks from 
